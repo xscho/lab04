@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab04</string>
+    <string name="txt_1">Apple</string>
+    <string name="txt_2">Strawberry</string>
+    <string name="txt_3">Blueberry</string>
+    <string name="txt_4">Gooseberry</string>
+    <string name="but_cal">calculate</string>
+    <string name="txt_res">...</string>
+    <string name="RBtn_dial">Dialog</string>
+    <string name="RBtn_Toast">Toast</string>
+    <string name="txt">...</string>
+
+</resources>
